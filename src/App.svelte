@@ -95,7 +95,7 @@
 
 			<div class="status">
 				ARCHIVE STATUS: <strong>OPEN</strong><br />
-				Last updated: 02/06/31
+				Last updated: 25/06/31
 			</div>
 
 		</div>
@@ -295,7 +295,7 @@
 						An obscure Sairen myth concerning three singers,
 						a forgotten world, and a figure known only as Orphée.
 					</p>
-
+<p>Last Update : I added a contact email at the bottom. If people see this archive and have any questions or information, feel free to reach.</p>
 					<p>
             This website collects translated fragments, references
             and research notes concerning a small group of texts
@@ -2177,6 +2177,8 @@
       >
         Contact
       </a>
+	  ·
+	  <a href="mailto:contact.sairenchorus@gmail.com">Email</a>
     </p>
 
 	</footer>
